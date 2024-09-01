@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pictures_website.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 1.118, b-it building</p>
+    <p>Friedrich-Hirzebruch-Allee 5/6</p>
+    <p>53115 Bonn, Germany</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome to my personal webpage. My name is Jannik and I'm currently a PhD student at the University of Bonn. I hold a BSc Chemistry (University of Bonn) and an MSc Chemistry (University of Munich). My studies focused on theoretical chemistry with a good mix between application and method developement. For my PhD I am pursuing a slightly different direction: Cheminformatics. I try to develop machine learning (ML) models that help us develop new drugs faster and safer. I'm especially interested in ligand-based potency/activity prediction as well as understanding what ML models are actually learning for these tasks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Here on this site you will find a lot of information about me and my research. If you have any questions, don't hesitate to contact me via mail at [jannikproth@gmail.com](mailto:jannikproth@gmail.com).
