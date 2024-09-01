@@ -243,7 +243,11 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/about_einstein.md # remove unnecessary atm
+  - _pages/blog.md # remove unnecessary atm
+  - _pages/projects.md # remove unnecessary atm
+  - _pages/teaching.md # remove unnecessary atm
+  - _pages/profiles.md # remove unnecessary atm
   - purgecss.config.js
   - README.md
   - readme_preview/
