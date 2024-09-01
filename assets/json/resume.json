@@ -58,6 +58,17 @@
       // "courses": ["Theory of Relativity"]
     },
     {
+      "institution": "University of Milano-Bicocca, Milan, Italy",
+      "location": "Milan, Italy",
+      "url": "https://en.unimib.it/",
+      "area": "Reasarch Stay",
+      // "studyType": "BSc",
+      "startDate": "2019-10-01",
+      "endDate": "2020-09-30"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
+    {
       "institution": "University of Munich, Munich, Germany",
       "location": "Munich, Germany",
       "url": "https://www.lmu.de/en/index.html",
