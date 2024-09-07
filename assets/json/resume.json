@@ -51,7 +51,7 @@
       "location": "Bonn, Germany",
       "url": "https://www.uni-bonn.de/en",
       "area": "Chemistry",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science Chemistry",
       "startDate": "2016-10-01",
       "endDate": "2019-09-30"
       // "score": "10",
@@ -72,8 +72,8 @@
       "institution": "University of Munich, Munich, Germany",
       "location": "Munich, Germany",
       "url": "https://www.lmu.de/en/index.html",
-      "area": "Chemistry",
-      "studyType": "MSc",
+      "area": "Focus on Physical Chemistry and Theoretical Chemistry",
+      "studyType": "Master of Science Chemistry",
       "startDate": "2020-10-01",
       "endDate": "2023-03-31"
       // "score": "10",
@@ -83,7 +83,7 @@
       "institution": "University of Bonn, Bonn, Germany",
       "location": "Bonn, Germany",
       "url": "https://www.uni-bonn.de/en",
-      "area": "Cheminformatics",
+      "area": "Life Science Informatics",
       "studyType": "PhD",
       "startDate": "2023-05-15"
       // "endDate": "2019-09-30"
