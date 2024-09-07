@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Here you can find info about my GitHub profile. Although I'm not too active on it you will find most of my code that I have used for pblications there.
+description: Here you can find info about my most important Github repositories which contain mostly code that has been used for publications.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+<!-- {% if site.data.repositories.github_users %}
 
 ## GitHub users
 
@@ -19,7 +19,7 @@ nav_order: 4
 
 ---
 
-<!-- {% if site.repo_trophies.enabled %}
+{% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
 
@@ -33,15 +33,15 @@ nav_order: 4
 
 {% endfor %}
 {% endif %}
-{% endif %} -->
+{% endif %}
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+## GitHub Repositories -->
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+<!-- {% endif %} -->
