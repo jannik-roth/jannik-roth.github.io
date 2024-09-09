@@ -198,20 +198,12 @@
     {
       "name": "Chemistry",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Chemistry",
-        "Data-driven Chemistry",
-        "Machine Learning in Chemistry"
-      ]
+      "keywords": ["Quantum Chemistry", "Data-driven Chemistry", "Machine Learning in Chemistry"]
     },
     {
       "name": "Cheminformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Compound Potency Prediction",
-        "Uncertainty Quantification",
-        "Explainable Artificial Intelligence (XAI)"
-      ]
+      "keywords": ["Compound Potency Prediction", "Uncertainty Quantification", "Explainable Artificial Intelligence (XAI)"]
     }
   ]
   // "references": [
