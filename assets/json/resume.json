@@ -50,10 +50,20 @@
       "institution": "University of Bonn, Bonn, Germany",
       "location": "Bonn, Germany",
       "url": "https://www.uni-bonn.de/en",
-      // "area": "Chemistry",
-      "studyType": "Bachelor of Science Chemistry",
-      "startDate": "2016-10-01",
-      "endDate": "2019-09-30"
+      "area": "Cheminformatics, Explainable Artificial Intelligence, Compound Potency Prediction",
+      "studyType": "PhD Life Science Informatics",
+      "startDate": "2023-05-15"
+      // "endDate": "2019-09-30"
+      // "score": "10",
+      // "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University of Munich, Munich, Germany",
+      "location": "Munich, Germany",
+      "url": "https://www.lmu.de/en/index.html",
+      "studyType": "Master of Science Chemistry",
+      "startDate": "2020-10-01",
+      "endDate": "2023-03-31"
       // "score": "10",
       // "courses": ["Theory of Relativity"]
     },
@@ -69,47 +79,37 @@
       // "courses": ["Theory of Relativity"]
     },
     {
-      "institution": "University of Munich, Munich, Germany",
-      "location": "Munich, Germany",
-      "url": "https://www.lmu.de/en/index.html",
-      "studyType": "Master of Science Chemistry",
-      "startDate": "2020-10-01",
-      "endDate": "2023-03-31"
-      // "score": "10",
-      // "courses": ["Theory of Relativity"]
-    },
-    {
       "institution": "University of Bonn, Bonn, Germany",
       "location": "Bonn, Germany",
       "url": "https://www.uni-bonn.de/en",
-      "area": "Cheminformatics, Explainable Artificial Intelligence, Compound Potency Prediction",
-      "studyType": "PhD Life Science Informatics",
-      "startDate": "2023-05-15"
-      // "endDate": "2019-09-30"
+      // "area": "Chemistry",
+      "studyType": "Bachelor of Science Chemistry",
+      "startDate": "2016-10-01",
+      "endDate": "2019-09-30"
       // "score": "10",
       // "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
-    // {
-    //   "title": "BSc/MSc Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    //   "startdate": "2018-04-01",
-    //   "enddate": "2022-12-31",
-    //   "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    //   "url": "https://www.studienstiftung.de/en/"
-    // },
+    {
+      "title": "PhD Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "startdate": "2024",
+      "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "url": "https://www.studienstiftung.de/en/"
+    },
     {
       "title": "Römer prize for best MSc thesis",
-      "date": "2023-12-01",
+      "date": "2023",
       "awarder": "Römer-Stiftung",
       "url": "https://www.cup.lmu.de/roemer/"
+    },
+    {
+      "title": "BSc/MSc Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "startdate": "2018",
+      "enddate": "2022",
+      "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "url": "https://www.studienstiftung.de/en/"
     }
-    // {
-    //   "title": "PhD Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    //   "startdate": "2024-05-15",
-    //   "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    //   "url": "https://www.studienstiftung.de/en/"
-    // }
   ],
   // "awards": [
   //   {
