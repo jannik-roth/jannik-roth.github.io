@@ -72,7 +72,6 @@
       "institution": "University of Munich, Munich, Germany",
       "location": "Munich, Germany",
       "url": "https://www.lmu.de/en/index.html",
-      "area": "Prize by the Römer-Stiftung for best MSc thesis",
       "studyType": "Master of Science Chemistry",
       "startDate": "2020-10-01",
       "endDate": "2023-03-31"
@@ -91,21 +90,27 @@
       // "courses": ["Theory of Relativity"]
     }
   ],
-   "scholarships & funding": [
-   {
-     "title": "BSc/MSc Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-     "startdate": "2018-04-01",
-     "enddate": "2022-12-31",
-     "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-     "url": "https://www.studienstiftung.de/en/"
-   },
-   {
-    "title": "PhD Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    "startdate": "2024-05-15",
-    "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-    "url": "https://www.studienstiftung.de/en/"
+  "awards": [
+    {
+      "title": "BSc/MSc Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "startdate": "2018-04-01",
+      "enddate": "2022-12-31",
+      "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "url": "https://www.studienstiftung.de/en/"
+    },
+    {
+      "title": "Römer prize for best MSc thesis",
+      "date": "2023-12-01",
+      "awarder": "Römer-Stiftung",
+      "url": "https://www.cup.lmu.de/roemer/"
+    },
+    {
+      "title": "PhD Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "startdate": "2024-05-15",
+      "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "url": "https://www.studienstiftung.de/en/"
   }
- ],
+  ],
   // "awards": [
   //   {
   //     "title": "Nobel Prize in Physics",
