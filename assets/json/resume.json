@@ -92,21 +92,20 @@
   ],
   "awards": [
     {
-      "title": "PhD Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
+      "title": "PhD Scholarship",
       "startdate": "2024",
       "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
       "url": "https://www.studienstiftung.de/en/"
     },
     {
-      "title": "Römer prize for best MSc thesis",
+      "title": "Römer Prize for best MSc Thesis",
       "date": "2023",
       "awarder": "Römer-Stiftung",
       "url": "https://www.cup.lmu.de/roemer/"
     },
     {
-      "title": "BSc/MSc Scholarship of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
-      "startdate": "2018",
-      "enddate": "2022",
+      "title": "BSc/MSc Scholarship",
+      "date": "2018",
       "awarder": "German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)",
       "url": "https://www.studienstiftung.de/en/"
     }
