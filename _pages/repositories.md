@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Here you can find info about my most important Github repositories which contain mostly code that has been used for publications.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- {% if site.data.repositories.github_users %}

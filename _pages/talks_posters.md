@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 # 2024
+
 - 3rd-6th November, *18th German Conference on Cheminformatics (GCC 2024)* in Bad Soden am Taunus (Germany)  
 Research Telegram: [Uncertainty Quantification in Compound Potency Prediction](https://jannik-roth.github.io/assets/pdf/20241104_cic_pres.pdf)
 - 7th-8th Ocotber, *All-Hands Meeting of the German AI Competence Centers* in Dresden (Germany)  
