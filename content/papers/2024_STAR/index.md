@@ -11,7 +11,7 @@ cover:
     relative: true
 editPost:
     URL: "https://www.cell.com/star-protocols/home"
-    Text: "STAR Protocol"
+    Text: "STAR Protocols"
 
 ---
 
@@ -39,7 +39,7 @@ Roth, Jannik P., and Jürgen Bajorath. "Protocol to calculate and compare exact 
 @article{roth2024protocol,
   title={Protocol to calculate and compare exact Shapley values for different kernels in support vector machine models using binary features},
   author={Roth, Jannik P and Bajorath, J{\"u}rgen},
-  journal={STAR protocols},
+  journal={STAR Protocols},
   volume={5},
   number={4},
   year={2024},
