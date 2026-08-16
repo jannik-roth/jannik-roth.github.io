@@ -3,15 +3,15 @@ title: "Chemically Interpretable Explanations for Molecular Property Prediction 
 date: 2026-04-21
 tags: ["ML","AI", "cheminformatics", "Shapley Values", "eXplainable Artificial Intelligence (XAI)"]
 author: ["Jannik P. Roth"]
-description: "This work introduces a fragment-level Shapley value framework that enables the exact computation of feature contributions at the level of chemically meaningful fragments for molecular property predictions without relying on sampling or feature imputation. Preprint in ChemRxiv, 2026" 
+description: "This work introduces a fragment-level Shapley value framework that enables the exact computation of feature contributions at the level of chemically meaningful fragments for molecular property predictions without relying on sampling or feature imputation. Published in Journal of Chemical Information and Modeling, 2026" 
 summary: "This work introduces a fragment-level Shapley value framework that enables the exact computation of feature contributions at the level of chemically meaningful fragments for molecular property predictions without relying on sampling or feature imputation."
 cover:
     image: "roth_2026_fragment_shapley.jpg"
     alt: "Developing a fragment-level framework for the calculation of exact Shapley Values."
     relative: true
 editPost:
-    URL: "https://chemrxiv.org/"
-    Text: "ChemRxiv"
+    URL: "https://pubs.acs.org/jcisd8"
+    Text: "Journal of Chemical Information and Modeling"
 
 ---
 
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://doi.org/10.26434/chemrxiv.15002302/v1)
++ [Paper](https://doi.org/10.1021/acs.jcim.6c01425)
 + [Code](https://github.com/jannik-roth/FragShapley)
 
 ---
@@ -32,15 +32,15 @@ Machine learning has emerged as a powerful approach for molecular property predi
 
 ##### Citation
 
-Roth, Jannik P. "Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values." *ChemRxiv* (2026).
+Roth, Jannik P. "Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values." *Journal of Chemical Information and Modeling* (2026).
 
 ```latex
 @article{roth2026chemically,
   title={Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values},
   author={Roth, Jannik Philipp},
-  journal={ChemRxiv},
+  journal={Journal of Chemical Information and Modeling},
   year={2026},
-  doi={10.26434/chemrxiv.15002302/v12}
+  doi={10.1021/acs.jcim.6c01425}
 }
 
 ```
