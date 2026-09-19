@@ -39,6 +39,8 @@ Roth, Jannik P. "Chemically Interpretable Explanations for Molecular Property Pr
   title={Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values},
   author={Roth, Jannik Philipp},
   journal={Journal of Chemical Information and Modeling},
+  volume={66},
+  number={17},
   year={2026},
   doi={10.1021/acs.jcim.6c01425}
 }
